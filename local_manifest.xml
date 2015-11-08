@@ -6,5 +6,4 @@
   <project name="MM-Thea/proprietary_vendor_motorola" path="vendor/motorola" revision="cm-13.0" remote="github" />
   <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" revision="cm-13.0" remote="github" />
   <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" revision="cm-13.0" remote="github" />
-  <project name="CyanogenMod/android_external_stlport" path="external/stlport" revision="cm-13.0" remote="github" />
 </manifest>
