@@ -1,4 +1,4 @@
-THEA-LOCAL_MANIFEST
+LOCAL_MANIFEST
 ========================
 Project for motorola Moto G 2014 LTE (THEA)
 
